@@ -1,16 +1,114 @@
-# teamtrip
+# 🌍 TourMate - Tourist Guide Mobile Application
 
-A new Flutter project.
+## 📖 About the Project
 
-## Getting Started
+TourMate is a Flutter mobile application developed to help tourists easily discover nearby tourist attractions and travel safely.
 
-This project is a starting point for a Flutter application.
+The application allows users to:
 
-A few resources to get you started if this is your first Flutter project:
+- User Registration
+- User Login
+- View Nearby Tourist Places
+- Weather Information
+- Language Translator
+- Photo Diary
+- Emergency SOS
+- User Profile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+✅ User Signup
+
+✅ User Login
+
+✅ Location Permission
+
+✅ Nearby Tourist Places
+
+✅ Google Map Navigation
+
+✅ Weather Information
+
+✅ Translator
+
+✅ Photo Diary
+
+✅ Emergency SOS
+
+---
+
+## 🛠 Technologies Used
+
+### Frontend
+
+- Flutter
+- Dart
+
+### Backend
+
+- Django
+- Django REST Framework
+
+### Database
+
+- PostgreSQL
+
+### Maps
+
+- Google Maps API
+
+---
+
+## 📱 Screens
+
+- Splash Screen
+- Login Screen
+- Signup Screen
+- Dashboard
+- Popular Places
+- Weather
+- Translator
+- Photo Diary
+- Profile
+
+---
+
+## 📂 Project Structure
+
+lib/
+screens/
+widgets/
+main.dart
+
+---
+
+## ▶ How to Run
+
+### Clone Repository
+
+git clone https://github.com/Nandana040304/tourmate_frontend.git
+
+### Open Project
+
+Open Android Studio.
+
+Open the project folder.
+
+### Install Packages
+
+flutter pub get
+
+### Run
+
+flutter run
+
+---
+
+## 👩‍💻 Developed By
+
+Nandana T
+Sooryadarsha ck
+Revathi k
+Shivnand NR
